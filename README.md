@@ -1,10 +1,19 @@
 👦 - Graduate Student
+
 💻 - Programming
+
 📺 - TV Series
+
 🎬 - Movie
+
 📸 - Photography
-🔭 - Science 
+
+🔭 - Science
+
 📚 - Books
+
 📊 - Research
+
 🎹 - Piano
+
 📐 - Mathematics
