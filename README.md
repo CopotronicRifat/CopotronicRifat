@@ -1,12 +1,21 @@
-I'm working as a Lecturer in Computer Science and Engineering department at University of Asia Pacific.
+<p>
+                    I'm working as a Lecturer in <a href="https://uap-bd.edu/cse/index.php">Computer Science and Engineering department</a> at <a href="https://uap-bd.edu/">University of Asia Pacific</a>.
 
-I mainly conduct the theory course of Machine Learning and the lab course of Computer Graphics.
+                </p>
+                <p>
+                    I mainly conduct the theory course of Machine Learning and the lab course of Computer Graphics.
+                </p>
+                <p>
+                    My research interest includes Machine Learning, Deep Learning, Computer Vision, Pattern Recognition.
+                </p>
 
-My research interest includes Machine Learning, Deep Learning, Computer Vision, Pattern Recognition.
+                <p>
+                    I received Bachelor of Science degree in Computer Science and Engineering from <a href="https://ruet.ac.bd/">Rajshahi University of Engineering and Technology</a>. 
+                </p>
+                <p>
+                    I'm currently enrolled in the Master's program in <a href="https://cse.buet.ac.bd/">Computer Science and Engineering department</a> at <a href="https://buet.ac.bd/">Bangladesh University of Engineering and Technology</a>. 
 
-I received Bachelor of Science degree in Computer Science and Engineering from Rajshahi University of Engineering and Technology.
-
-I'm currently enrolled in the Master's program in Computer Science and Engineering department at Bangladesh University of Engineering and Technology.
-
-I'm also looking for a Graduate Research Assistant position in a Ph.D. program at any North American university which is enlisted by the CS Ranking Website.
+                </p>
+                <p>I'm also looking for a Graduate Research Assistant position in a Ph.D. program at any North American university which is enlisted by the <a href="http://csrankings.org/#/index?all&world">CS Ranking Website</a>. </p>
+                </p>  
 
