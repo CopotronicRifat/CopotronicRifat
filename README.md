@@ -11,5 +11,5 @@
 <p>
                     I'm currently enrolled in the Master's program in <a href="https://cse.buet.ac.bd/">Computer Science and Engineering department</a> at <a href="https://buet.ac.bd/">Bangladesh University of Engineering and Technology</a>. 
 </p>
-<p>I'm also looking for a Graduate Research/Teaching Assistantship position in a Ph.D. program at any North American university which is enlisted by the <a href="http://csrankings.org/#/index?all&world">CS Ranking Website</a>. </p>
+<p>I'm also looking for a Graduate Research/Teaching Assistantship position in a Ph.D. program at any North American university which are enlisted by the <a href="http://csrankings.org/#/index?all&world">CS Ranking Website</a>. </p>
 </p>
