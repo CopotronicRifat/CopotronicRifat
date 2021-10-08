@@ -1,5 +1,5 @@
 <p>
-                    I'm working as a Lecturer in <a href="https://cse.uap-bd.edu">Computer Science and Engineering department</a> at <a href="https://uap-bd.edu/">University of Asia Pacific</a>.
+                    I'm working as a <a href="https://cse.uap-bd.edu/faculty/faculty_details/19">Lecturer</a> in <a href="https://cse.uap-bd.edu">Computer Science and Engineering department</a> at <a href="https://uap-bd.edu/">University of Asia Pacific</a>.
 </p><p>
                     I mainly conduct the theory course of Machine Learning and the lab course of Computer Graphics.</p>
 <p>
