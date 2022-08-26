@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm S M Rafiuddin rIFAT</h1>
+<h1 align="center">Hi 👋, I'm S M Rafiuddin Rifat</h1>
 <h3 align="center">Graduate Teaching Assistant in Department of Computer Science at Oklahoma State University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=copotronicrifat&label=Profile%20views&color=0e75b6&style=flat" alt="copotronicrifat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=copotronicrifat" alt="copotronicrifat" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,4 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=copotronicrifat&show_icons=true&locale=en&layout=compact" alt="copotronicrifat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=copotronicrifat&show_icons=true&locale=en" alt="copotronicrifat" /></p>
-
