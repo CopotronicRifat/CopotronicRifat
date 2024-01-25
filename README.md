@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm S M Rafiuddin</h1>
 <h3 align="center">Graduate Teaching Assistant in Department of Computer Science at Oklahoma State University</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=copotronicrifat&label=Profile%20views&color=0e75b6&style=flat" alt="copotronicrifat" /> </p>
+
+<p align="left"> <a href="https://twitter.com/copotronicrifat" target="blank"><img src="https://img.shields.io/twitter/follow/copotronicrifat?logo=twitter&style=for-the-badge" alt="copotronicrifat" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/copotronicrifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="copotronicrifat" height="30" width="40" /></a>
