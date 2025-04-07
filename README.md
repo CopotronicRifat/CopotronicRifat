@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm S M Rafiuddin</h1>
+<h1 align="center">Hi 👋, I'm Rifat Rafiuddin</h1>
 <h3 align="center">Graduate Teaching Assistant in Department of Computer Science at Oklahoma State University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=copotronicrifat&label=Profile%20views&color=0e75b6&style=flat" alt="copotronicrifat" /> </p>
