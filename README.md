@@ -13,34 +13,14 @@
 ---
 
 ### 🌐 Connect with Me  
-
 <p align="left">
-<a href="https://www.facebook.com/where.is.rifat/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/></a>
-<a href="https://twitter.com/CopotronicRifat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter/X" height="30" width="40"/></a>
-<a href="https://www.linkedin.com/in/copotronicrifat/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-<a href="https://www.youtube.com/channel/UCl-SXfiDqNiWHTHufKgIlHg" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/></a>
-<a href="https://www.instagram.com/where.is.rifat/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
-<a href="https://www.pinterest.com/CopotronicRifat/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Pinterest" height="30" width="40"/></a>
-<a href="https://www.snapchat.com/add/copotronicrifat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="Snapchat" height="30" width="40"/></a>
-<a href="https://join.skype.com/invite/xND7SwF1Ir8t" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="Skype" height="30" width="40"/></a>
-<a href="https://www.flickr.com/photos/87423316@N04/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/flickr.svg" alt="Flickr" height="30" width="40"/></a>
-<a href="https://www.reddit.com/user/CopotronicRifat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="30" width="40"/></a>
-<a href="https://soundcloud.com/copotronicrifat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="SoundCloud" height="30" width="40"/></a>
-<a href="https://copotronicrifat.wordpress.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="WordPress" height="30" width="30"/></a>
-<a href="https://discord.gg/copotronicrifat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/></a>
-<a href="https://www.twitch.tv/CopotronicRifat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="Twitch" height="30" width="40"/></a>
-<a href="https://www.tumblr.com/copotronicrifat?source=share" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" alt="Tumblr" height="30" width="40"/></a>
-<a href="https://www.tiktok.com/@copotronicrifat?lang=en" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="30" width="40"/></a>
-<a href="https://www.goodreads.com/user/show/32670729-copotronic-rifat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/goodreads.svg" alt="Goodreads" height="30" width="40"/></a>
-<a href="https://bsky.app/profile/copotronicrifat.bsky.social" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4140/4140476.png" alt="Bluesky" height="30" width="30"/></a>
-<a href="https://graphics.social/@CopotronicRifat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mastodon.svg" alt="Mastodon" height="30" width="40"/></a>
-<a href="https://github.com/CopotronicRifat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/></a>
-<a href="https://www.quora.com/profile/CopotronicRifat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/quora.svg" alt="Quora" height="30" width="40"/></a>
-<a href="https://stackoverflow.com/users/16211022/copotronicrifat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40"/></a>
-<a href="https://t.me/CopotronicRifat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40"/></a>
-<a href="https://www.threads.net/@where.is.rifat" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Threads_(app)_logo.svg" alt="Threads" height="30" width="40"/></a>
-<a href="https://open.spotify.com/user/2kwdmvkvy003rfnmp181qlpor" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify" height="30" width="40"/></a>
+<a href="https://twitter.com/copotronicrifat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/copotronicrifat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+<a href="https://kaggle.com/copotronicrifat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40"/></a>
+<a href="https://fb.com/where.is.rifat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/></a>
+<a href="https://instagram.com/where.is.rifat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
 </p>
+
 
 ---
 
