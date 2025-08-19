@@ -3,20 +3,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=copotronicrifat&label=Profile%20Views&color=0e75b6&style=flat" alt="copotronicrifat" />
-  <a href="https://twitter.com/copotronicrifat" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/copotronicrifat?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
-
----
-
 ### 🚀 About Me  
-- 🎓 Ph.D. Student in **Computer Science** at **Oklahoma State University**  
+- 🎓 Ph.D. Student in **Computer Science** at [Oklahoma State University](https://cs.okstate.edu/)  
 - 💼 Graduate Teaching Assistant in the **Department of Computer Science**  
 - 🔬 Research interests: **Multimodal Learning, NLP, and Deep Learning**  
-- 📚 Published at conferences including **PAKDD 2024**, **ASONAM 2025** 
+- 📚 Published at conferences including **PAKDD 2024**, **ASONAM 2025**  
+- 🌐 Personal website: [copotronicrifat.github.io](https://copotronicrifat.github.io)  
 
 ---
 
@@ -50,5 +42,4 @@
 
 ---
 
-✨ _“Always curious, always learning.”_  
-
+✨ “Exploring ideas, building knowledge.”
