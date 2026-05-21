@@ -1,50 +1,50 @@
-<h1 align="center">Rifat Rafiuddin</h1>
+<h1 align="center"><strong><em>Rifat Rafiuddin</em></strong></h1>
 
 <p align="center">
-Ph.D. Student in Computer Science | Graduate Teaching Assistant <br>
-Oklahoma State University
+<strong>Ph.D. Student in Computer Science</strong> | <strong>Graduate Teaching Assistant</strong> <br>
+Department of Computer Science, Oklahoma State University
 </p>
 
 <p align="center">
-<a href="https://copotronicrifat.github.io">Website</a> ·
-<a href="https://linkedin.com/in/copotronicrifat">LinkedIn</a> ·
-<a href="https://kaggle.com/copotronicrifat">Kaggle</a>
+<a href="https://copotronicrifat.github.io"><code>Website</code></a> ·
+<a href="https://linkedin.com/in/copotronicrifat"><code>LinkedIn</code></a> ·
+<a href="https://kaggle.com/copotronicrifat"><code>Kaggle</code></a>
 </p>
 
 ---
 
 ### About
 
-I am a Ph.D. student in Computer Science at Oklahoma State University, where I work on machine learning, deep learning, multimodal learning, and natural language processing. My research focuses on developing learning methods that improve representation learning, knowledge transfer, and robustness across modalities.
+I am a ***Ph.D. student in Computer Science*** at ***Oklahoma State University***, where my research focuses on <code>machine learning</code>, <code>deep learning</code>, <code>multimodal learning</code>, and <code>natural language processing</code>. My work broadly explores representation learning, knowledge transfer, and robust learning across heterogeneous data modalities.
 
-I also serve as a Graduate Teaching Assistant in the Department of Computer Science, supporting undergraduate and graduate-level instruction in core computing areas. My academic work has appeared in venues including PAKDD 2024 and ASONAM 2025.
+I also serve as a ***Graduate Teaching Assistant*** in the Department of Computer Science, supporting teaching, grading, and student learning in core areas of computer science.
 
 ---
 
 ### Research Interests
 
-Machine Learning · Deep Learning · Multimodal Learning · Natural Language Processing · Knowledge Distillation · Representation Learning
+<code>Machine Learning</code> · <code>Deep Learning</code> · <code>Multimodal Learning</code> · <code>Natural Language Processing</code> · <code>Knowledge Distillation</code> · <code>Representation Learning</code>
 
 ---
 
 ### Technical Skills
 
-Programming: Python, Java, C, C++  
-Machine Learning: PyTorch, TensorFlow, scikit-learn  
-Data Science: NumPy, pandas, Matplotlib, Seaborn  
-Systems and Tools: Git, Linux, Docker, LaTeX  
-Databases and Big Data: MySQL, Oracle, Apache Spark, Hadoop
+<strong>Programming:</strong> <code>Python</code>, <code>Java</code>, <code>C</code>, <code>C++</code>  
+<strong>Machine Learning:</strong> <code>PyTorch</code>, <code>TensorFlow</code>, <code>scikit-learn</code>  
+<strong>Data Science:</strong> <code>NumPy</code>, <code>pandas</code>, <code>Matplotlib</code>, <code>Seaborn</code>  
+<strong>Systems and Tools:</strong> <code>Git</code>, <code>Linux</code>, <code>Docker</code>, <code>LaTeX</code>  
+<strong>Databases and Big Data:</strong> <code>MySQL</code>, <code>Oracle</code>, <code>Apache Spark</code>, <code>Hadoop</code>
 
 ---
 
 ### Links
 
-Personal Website: [copotronicrifat.github.io](https://copotronicrifat.github.io)  
-LinkedIn: [linkedin.com/in/copotronicrifat](https://linkedin.com/in/copotronicrifat)  
-Kaggle: [kaggle.com/copotronicrifat](https://kaggle.com/copotronicrifat)
+<strong>Personal Website:</strong> [<code>copotronicrifat.github.io</code>](https://copotronicrifat.github.io)  
+<strong>LinkedIn:</strong> [<code>linkedin.com/in/copotronicrifat</code>](https://linkedin.com/in/copotronicrifat)  
+<strong>Kaggle:</strong> [<code>kaggle.com/copotronicrifat</code>](https://kaggle.com/copotronicrifat)
 
 ---
 
 <p align="center">
-Exploring ideas, building knowledge, and developing machine learning systems for real-world problems.
+<em>Exploring ideas, building knowledge, and developing machine learning systems for real-world problems.</em>
 </p>
