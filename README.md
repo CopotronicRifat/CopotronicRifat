@@ -23,7 +23,7 @@ I also serve as a ***Graduate Teaching Assistant*** in the Department of Compute
 
 ### Research Interests
 
-<code>Machine Learning</code> · <code>Deep Learning</code> · <code>Multimodal Learning</code> · <code>Natural Language Processing</code> · <code>Knowledge Distillation</code> · <code>Representation Learning</code>
+<code>Machine Learning</code> · <code>Deep Learning</code> · <code>Multimodal Learning</code> · <code>Natural Language Processing</code> ·  <code>Representation Learning</code>
 
 ---
 
