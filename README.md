@@ -1,50 +1,130 @@
-<h1 align="center"><strong><em>Rifat Rafiuddin</em></strong></h1>
+<div align="center">
 
-<p align="center">
-<strong>Ph.D. Student in Computer Science</strong> | <strong>Graduate Teaching Assistant</strong> <br>
-Department of Computer Science, Oklahoma State University
-</p>
+# Hi, I'm ***Rifat Rafiuddin*** 👋
 
-<p align="center">
-<a href="https://copotronicrifat.github.io"><code>Website</code></a> ·
-<a href="https://linkedin.com/in/copotronicrifat"><code>LinkedIn</code></a> ·
-<a href="https://kaggle.com/copotronicrifat"><code>Kaggle</code></a>
-</p>
+### ***Ph.D. Student in Computer Science*** | ***Graduate Teaching Assistant*** | ***Machine Learning Researcher***
+
+*Developing learning methods for NLP, representation learning, and robust machine learning systems*
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Ph.D.+Student+in+Computer+Science;Machine+Learning+Researcher;NLP+and+Representation+Learning;Graduate+Teaching+Assistant&center=true&vCenter=true&color=0891b2&size=24)
 
 ---
 
-### About
+[![Website](https://img.shields.io/badge/Website-0891b2?style=for-the-badge)](https://copotronicrifat.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/copotronicrifat)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge)](https://kaggle.com/copotronicrifat)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge)](https://github.com/copotronicrifat)
 
-I am a ***Ph.D. student in Computer Science*** at ***Oklahoma State University***, where my research focuses on <code>machine learning</code>, <code>deep learning</code>, <code>multimodal learning</code>, and <code>natural language processing</code>. My work broadly explores representation learning, knowledge transfer, and robust learning across heterogeneous data modalities.
-
-I also serve as a ***Graduate Teaching Assistant*** in the Department of Computer Science, supporting teaching, grading, and student learning in core areas of computer science.
-
----
-
-### Research Interests
-
-<code>Machine Learning</code> · <code>Deep Learning</code> · <code>Multimodal Learning</code> · <code>Natural Language Processing</code> ·  <code>Representation Learning</code>
+</div>
 
 ---
 
-### Technical Skills
+## 👨‍💻 About Me
 
-<strong>Programming:</strong> <code>Python</code>, <code>Java</code>, <code>C</code>, <code>C++</code>  
-<strong>Machine Learning:</strong> <code>PyTorch</code>, <code>TensorFlow</code>, <code>scikit-learn</code>  
-<strong>Data Science:</strong> <code>NumPy</code>, <code>pandas</code>, <code>Matplotlib</code>, <code>Seaborn</code>  
-<strong>Systems and Tools:</strong> <code>Git</code>, <code>Linux</code>, <code>Docker</code>, <code>LaTeX</code>  
-<strong>Databases and Big Data:</strong> <code>MySQL</code>, <code>Oracle</code>, <code>Apache Spark</code>, <code>Hadoop</code>
+<div align="left">
+
+I am a ***Ph.D. student in Computer Science*** at ***Oklahoma State University*** and a ***Graduate Teaching Assistant*** in the Department of Computer Science.
+
+My research interests include <code>Natural Language Processing</code>, <code>Representation Learning</code>, <code>Machine Learning</code>, <code>Deep Learning</code>, and <code>Causal Analysis</code>. I am interested in developing learning methods that improve model understanding, robustness, and generalization across real-world data settings.
+
+Alongside research, I enjoy teaching, mentoring students, and building reproducible machine learning pipelines for academic and applied research problems.
+
+**Current focus areas:**
+- ***Natural Language Processing***
+- ***Representation Learning***
+- ***Causal Analysis***
+- ***Deep Learning***
+- ***Robust and Explainable Machine Learning***
+- ***Academic research, teaching, and mentoring***
+
+</div>
 
 ---
 
-### Links
+## 🔬 Research Interests
 
-<strong>Personal Website:</strong> [<code>copotronicrifat.github.io</code>](https://copotronicrifat.github.io)  
-<strong>LinkedIn:</strong> [<code>linkedin.com/in/copotronicrifat</code>](https://linkedin.com/in/copotronicrifat)  
-<strong>Kaggle:</strong> [<code>kaggle.com/copotronicrifat</code>](https://kaggle.com/copotronicrifat)
+<div align="center">
+
+<code>Natural Language Processing</code> · 
+<code>Representation Learning</code> · 
+<code>Causal Analysis</code> · 
+<code>Machine Learning</code> · 
+<code>Deep Learning</code> · 
+<code>Model Robustness</code> · 
+<code>Explainable AI</code>
+
+</div>
 
 ---
 
-<p align="center">
-<em>Exploring ideas, building knowledge, and developing machine learning systems for real-world problems.</em>
-</p>
+## 🛠️ Technical Skills
+
+### Programming
+<code>Python</code> · <code>Java</code> · <code>C</code> · <code>C++</code>
+
+### Machine Learning & Deep Learning
+<code>PyTorch</code> · <code>TensorFlow</code> · <code>scikit-learn</code> · <code>Transformers</code>
+
+### Data Science & Visualization
+<code>NumPy</code> · <code>pandas</code> · <code>Matplotlib</code> · <code>Seaborn</code>
+
+### Systems & Research Tools
+<code>Git</code> · <code>Linux</code> · <code>Docker</code> · <code>LaTeX</code>
+
+### Databases & Big Data
+<code>MySQL</code> · <code>Oracle</code> · <code>Apache Spark</code> · <code>Hadoop</code>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=copotronicrifat&show_icons=true&theme=react&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=copotronicrifat&theme=react-dark&hide_border=true&area=true&color=0891b2&line=0891b2&point=ffffff)
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Personal%20Website-0891b2?style=for-the-badge)](https://copotronicrifat.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/copotronicrifat)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge)](https://kaggle.com/copotronicrifat)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge)](https://github.com/copotronicrifat)
+
+</div>
+
+---
+
+## 💼 Academic & Research Opportunities
+
+<div align="center">
+
+*Open to research collaboration in <code>NLP</code>, <code>Representation Learning</code>, <code>Causal Analysis</code>, and <code>Robust Machine Learning</code>.*
+
+*Feel free to reach out through my website or LinkedIn for academic collaboration, research discussion, or mentoring-related opportunities.*
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=copotronicrifat&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+
+***Exploring ideas, building knowledge, and developing machine learning systems for real-world problems.***
+
+</div>
