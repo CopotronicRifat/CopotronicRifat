@@ -6,7 +6,7 @@
 
 *Developing learning methods for NLP, representation learning, and robust machine learning systems*
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Ph.D.+Student+in+Computer+Science;Machine+Learning+Researcher;NLP+and+Representation+Learning;Graduate+Teaching+Assistant&center=true&vCenter=true&color=0891b2&size=24)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Ph.D.+Student+in+Computer+Science;Machine+Learning+Researcher;NLP+and+Representation+Learning;Graduate+Research+Assistant&center=true&vCenter=true&color=0891b2&size=35)
 
 ---
 
