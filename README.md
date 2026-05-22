@@ -6,7 +6,7 @@
 
 *Advancing research in NLP, representation learning, explainability, and memory-efficient language models*
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Ph.D.+Student+in+Computer+Science;Machine+Learning+Researcher;NLP+Researcher;Representation+Learning;Memory-Efficient+Language+Models&center=true&vCenter=true&color=0891b2&size=25)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Ph.D.+Student+in+Computer+Science;Machine+Learning+Researcher;NLP+Researcher;Representation+Learning;Memory-Efficient+Language+Models&center=true&vCenter=true&color=0891b2&size=20)
 
 ---
 
