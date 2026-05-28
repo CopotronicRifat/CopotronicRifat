@@ -10,11 +10,13 @@
 
 ---
 
+<!--
 ### 🐍 My GitHub Contributions as Snake Game!
 
 ![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
+-->
 
 [![Website](https://img.shields.io/badge/Website-0891b2?style=for-the-badge)](https://copotronicrifat.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/copotronicrifat)
