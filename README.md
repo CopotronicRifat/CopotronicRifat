@@ -2,21 +2,13 @@
 
 # Hi, I'm ***Rifat Rafiuddin*** 👋
 
-### ***Ph.D. Student*** | ***Machine Learning Researcher*** | ***Graduate Teaching Assistant***
+### ***Ph.D. Candidate*** | ***Machine Learning Researcher*** | ***Graduate Teaching Assistant***
 
-*Advancing research in NLP, representation learning, explainability, and memory-efficient language models*
+*Building interpretable, efficient, and reliable language models*
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Ph.D.+Student+in+Computer+Science;Machine+Learning+Researcher;NLP+Researcher;Representation+Learning;Memory-Efficient+Language+Models&center=true&vCenter=true&color=0891b2&size=20)
-
----
-
-<!--
-### 🐍 My GitHub Contributions as Snake Game!
-
-![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Ph.D.+Candidate+in+Computer+Science;Machine+Learning+Researcher;NLP+Researcher;Mechanistic+Interpretability;Representation+Learning;Efficient+Language+Models&center=true&vCenter=true&color=0891b2&size=20)
 
 ---
--->
 
 [![Website](https://img.shields.io/badge/Website-0891b2?style=for-the-badge)](https://copotronicrifat.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/copotronicrifat)
@@ -33,23 +25,27 @@
 
 <div align="left">
 
-I am a ***fourth-year Ph.D. student in Computer Science*** at ***Oklahoma State University***, working in the ***Reasoning and Artificial Intelligence (rAIson) Lab*** under the supervision of ***Dr. Atriya Sen***.
+I am a ***fifth-year Ph.D. Candidate in Computer Science*** at ***Oklahoma State University***, working in the ***Reasoning and Artificial Intelligence (rAIson) Lab*** under the supervision of ***Dr. Atriya Sen***.
 
-My research sits at the intersection of <code>Machine Learning</code>, <code>Deep Learning</code>, and <code>Natural Language Processing</code>. I am particularly interested in developing learning methods for <code>representation learning</code>, <code>explainability in large language models</code>, and <code>memory-efficient language models</code>.
+My research investigates how language models ***represent, retain, and transform information*** and how these processes can be made more <code>interpretable</code>, <code>efficient</code>, and <code>reliable</code>. My work lies at the intersection of <code>Natural Language Processing</code>, <code>Representation Learning</code>, <code>Mechanistic Interpretability</code>, and <code>Efficient Machine Learning</code>.
 
-Before starting my Ph.D., I served as a ***Lecturer*** in the Department of Computer Science and Engineering at the ***University of Asia Pacific***, where I taught courses such as <code>Machine Learning</code>, <code>Pattern Recognition</code>, <code>Algorithms</code>, and <code>Computer Graphics Lab</code>. I also mentored undergraduate research projects and supported students in building strong foundations in computer science.
+My current research focuses on understanding computational mechanisms inside transformers, developing parameter- and memory-efficient adaptation methods, and designing approaches for evaluating, explaining, and controlling model behavior. I am particularly interested in <code>adaptive computation</code>, <code>sparse representations</code>, <code>low-rank adaptation</code>, <code>causal intervention</code>, and <code>counterfactual reasoning</code>.
+
+Before starting my Ph.D., I served as a ***Lecturer*** in the Department of Computer Science and Engineering at the ***University of Asia Pacific***, where I taught courses including <code>Machine Learning</code>, <code>Pattern Recognition</code>, <code>Algorithms</code>, and <code>Computer Graphics Lab</code>. I also mentored undergraduate research projects and supported students in developing strong foundations in computer science.
 
 I earned my ***Bachelor of Science in Computer Science and Engineering*** from ***Rajshahi University of Engineering and Technology (RUET)***.
 
 **What I bring to the table:**
-- 🧠 Strong foundation in <code>Machine Learning</code>, <code>Deep Learning</code>, and <code>NLP</code>
-- 🔬 Research experience in <code>multimodal representation learning</code>, <code>LLM explainability</code>, and <code>efficient language models</code>
-- 👨‍🏫 Teaching experience across core computer science courses
-- 💻 Experience building reproducible research pipelines and applied machine learning systems
-- 🤝 Academic collaboration, mentoring, and interdisciplinary research experience
-- 📚 Long-term goal of pursuing an academic career through research, teaching, and mentorship
+- 🧠 Research expertise in <code>Natural Language Processing</code>, <code>Representation Learning</code>, and <code>Deep Learning</code>
+- 🔬 Experience with <code>Mechanistic Interpretability</code>, <code>Efficient Adaptation</code>, and <code>LLM Reasoning</code>
+- 🧩 Research on <code>adaptive computation</code>, <code>causal intervention</code>, and <code>counterfactual reasoning</code>
+- 🌐 Experience with <code>multimodal learning</code> across text, image, audio, and structured data
+- 💻 Experience building reproducible machine learning pipelines and research systems
+- 👨‍🏫 University-level teaching, mentoring, and student research supervision
+- 🤝 Experience in collaborative and interdisciplinary research
+- 📚 Long-term goal of pursuing an academic career combining research, teaching, and mentorship
 
-*Exploring ideas, building knowledge, and developing machine learning systems for real-world problems.*
+*Understanding how intelligent systems compute, represent, adapt, and reason.*
 
 </div>
 
@@ -60,12 +56,12 @@ I earned my ***Bachelor of Science in Computer Science and Engineering*** from *
 <div align="center">
 
 <code>Natural Language Processing</code> · 
+<code>Mechanistic Interpretability</code> · 
 <code>Representation Learning</code> · 
-<code>Explainable AI</code> · 
-<code>Memory-Efficient Language Models</code> · 
-<code>Multimodal Learning</code> · 
-<code>Deep Learning</code> · 
-<code>Machine Learning</code>
+<code>Efficient Language Models</code> · 
+<code>Parameter-Efficient Adaptation</code> · 
+<code>Causal & Counterfactual Reasoning</code> · 
+<code>Multimodal Learning</code>
 
 </div>
 
@@ -80,6 +76,10 @@ I earned my ***Bachelor of Science in Computer Science and Engineering*** from *
 ### Machine Learning & Deep Learning
 
 <code>PyTorch</code> · <code>TensorFlow</code> · <code>scikit-learn</code> · <code>Transformers</code> · <code>Hugging Face</code>
+
+### LLM & NLP Research
+
+<code>LoRA</code> · <code>PEFT</code> · <code>Sparse Autoencoders</code> · <code>Representation Analysis</code> · <code>Model Editing</code>
 
 ### Data Science & Visualization
 
@@ -99,24 +99,35 @@ I earned my ***Bachelor of Science in Computer Science and Engineering*** from *
 
 <div align="left">
 
-- ***Language Model Efficiency:*** working on memory-efficient and faithful language models using adaptive token retention and low-rank subspace methods.
-- ***LLM Explainability:*** studying interpretable mechanisms for understanding and analyzing large language models.
-- ***Representation Learning:*** developing methods for learning robust and generalizable representations from complex data.
-- ***Multimodal Learning:*** exploring alignment and reasoning across text, image, and temporal modalities.
-- ***Applied Machine Learning:*** building models for sentiment analysis, health forecasting, image analysis, and scientific computing.
-- ***Teaching and Mentorship:*** supporting students in computer science through teaching, grading, project supervision, and research guidance.
+- ***Mechanistic Interpretability:*** studying internal representations and computational mechanisms in transformers to understand how models encode, manipulate, and retrieve information.
+
+- ***Adaptive Computation:*** developing methods that dynamically allocate computation and information processing based on input context and model state.
+
+- ***Efficient Model Adaptation:*** investigating parameter- and memory-efficient approaches including low-rank adaptation, sparse representations, and representation-guided optimization.
+
+- ***Causal & Counterfactual Reasoning:*** designing methods for causal intervention, counterfactual evaluation, and controlled modification of language-model behavior.
+
+- ***Representation Learning:*** analyzing and learning robust representations that support reasoning, generalization, interpretability, and efficient adaptation.
+
+- ***Multimodal Learning:*** exploring representation alignment, knowledge transfer, and reasoning across text, image, audio, temporal, and structured modalities.
+
+- ***Applied Machine Learning:*** developing learning systems for sentiment analysis, scientific computing, multimodal prediction, and real-world decision problems.
+
+- ***Teaching & Mentorship:*** supporting students through computer science teaching, project supervision, research mentoring, and academic guidance.
 
 </div>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🎯 Current Research Direction
 
-<div align="center">
+<div align="left">
 
-### 📈 Contribution Activity Graph
+My dissertation research focuses on:
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CopotronicRifat&theme=react-dark&hide_border=true&area=true&color=0891b2&line=0891b2&point=ffffff)
+> ***Adaptive Computation in Transformers: From Selective Information Processing to Causal Mechanistic Interpretability***
+
+The broader goal is to understand how transformers allocate computation, organize internal representations, adapt efficiently, and support reliable reasoning. My work connects efficient model adaptation with mechanistic understanding and targeted intervention in language models.
 
 </div>
 
@@ -141,19 +152,9 @@ I earned my ***Bachelor of Science in Computer Science and Engineering*** from *
 
 <div align="center">
 
-*💡 Open to academic collaboration in <code>NLP</code>, <code>Representation Learning</code>, <code>Explainable AI</code>, <code>Memory-Efficient Language Models</code>, and <code>Multimodal Learning</code>.*
+*💡 Open to research collaborations in <code>NLP</code>, <code>Mechanistic Interpretability</code>, <code>Representation Learning</code>, <code>Efficient Language Models</code>, <code>Causal Reasoning</code>, and <code>Multimodal Learning</code>.*
 
-*Feel free to reach out through my website or LinkedIn for research discussions, collaboration, or mentoring-related opportunities.*
-
-</div>
-
----
-
-## 👀 Profile Views
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=CopotronicRifat&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
+*Feel free to reach out through my website or LinkedIn for research discussions, collaborations, or academic opportunities.*
 
 </div>
 
@@ -161,6 +162,6 @@ I earned my ***Bachelor of Science in Computer Science and Engineering*** from *
 
 <div align="center">
 
-***“Exploring ideas, building knowledge.”***
+***“Understanding representations. Improving computation. Building reliable intelligence.”***
 
 </div>
